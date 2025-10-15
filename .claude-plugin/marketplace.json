@@ -13,9 +13,9 @@
       "name": "superpowers",
       "source": {
         "source": "url",
-        "url": "https://github.com/obra/superpowers.git"
+        "url": "https://github.com/andrewmdd/superpowers.git"
       },
-      "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
+      "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques with installation fix for my case",
       "version": "2.0.4",
       "keywords": ["skills", "tdd", "debugging", "collaboration", "best-practices", "workflows"],
       "strict": true
